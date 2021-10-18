@@ -1,0 +1,13 @@
+name: geo_python
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - pandas
+  - geopandas
+  - rasterio
+  - folium
+  - rasterstats
+  - autopep8
+  - yapf
+prefix: C:\Users\Romain\.conda\envs\geo_python
